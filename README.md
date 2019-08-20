@@ -3,7 +3,7 @@
 ## Description
 Students will investigate the programming techniques and theories involved in implementing linked lists, queues, stacks and tree structures. Recursion, searching techniques and sorting algorithms will also be considered. Students will be required to complete computer-based assignments inside/outside of class. 
 
-##Course Outcomes
+## Course Outcomes
 1. Describe the general structure and behavior of stacks, queues (including priority queues), linked lists, binary search trees, hash tables and heaps; 
 2. Identify the most appropriate type of data structure to use for a given set of requirements; 
 3. Describe performance issues related to each data structure (identified in objective 1) for basic operations such as insert, delete, and find; 
@@ -14,16 +14,16 @@ Students will investigate the programming techniques and theories involved in im
 8. Illustrate the execution sequence of recursive methods 
 
 ## Course Topics
-• Review of Object Oriented concepts 
-• Analysis of Algorithms 
-• The Java Collections Framework 
-• Recursion 
-• Lists o Array-based o Linked structure based 
-• Stacks 
-• Queues 
-• Binary Trees and Binary Search Trees 
-• Sorting 
-• Tree maps and sets 
-• Priority Queues (Heaps) 
-• Hashing 
-• Graphs, Trees and Networks 
+* Review of Object Oriented concepts 
+* Analysis of Algorithms 
+* The Java Collections Framework 
+* Recursion 
+* Lists o Array-based o Linked structure based 
+* Stacks 
+* Queues 
+* Binary Trees and Binary Search Trees 
+* Sorting 
+* Tree maps and sets 
+* Priority Queues (Heaps) 
+* Hashing 
+* Graphs, Trees and Networks 
