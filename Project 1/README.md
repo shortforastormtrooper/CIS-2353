@@ -1,6 +1,6 @@
 # Project 1-Game Piece
 
-One Paragraph of project description goes here
+The objective of this project was to display understanding of how to use the Comparable interface to solve a problem, and understanding of how to override the toString and equals method. 
 
 ## Getting Started
 
